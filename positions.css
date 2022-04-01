@@ -1,0 +1,20 @@
+.padre {
+  background-color: cadetblue;
+  padding: 10px;
+}
+
+.hijo {
+  padding: 10px;
+}
+
+.hijo1 {
+  background-color: crimson;
+}
+
+.hijo2 {
+  background-color: blue;
+}
+
+.hijo3 {
+  background-color: green;
+}
